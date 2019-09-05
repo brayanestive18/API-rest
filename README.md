@@ -1,6 +1,6 @@
-#API rest with JavaScript, express and morgan
+# API rest with JavaScript, express and morgan
 
-###Install nodemon and config in package.json in scripts
+### Install nodemon and config in package.json in scripts
 "scripts": {
     "dev": "nodemon src/index.js"
   },
